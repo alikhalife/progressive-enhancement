@@ -1,2 +1,2 @@
 # progressive-enhancement
-first projetc with HTML and CSS
+first project with HTML and CSS
