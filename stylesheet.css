@@ -1,0 +1,80 @@
+body {
+    background-color: #0F7FEF;
+    background-image: url("https://images.chinahighlights.com/allpicture/2018/03/47c0111d88d14b78a98c48fb_cut_800x500_9.jpg");
+    background-position: bottom right;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+blockquote {
+    margin: 200px;
+    font-size: 25.6px;
+    line-height: 1em;
+    background-color: rgb(216, 206, 206);
+    border: solid 10px #b22222;
+    color: rgb(78, 43, 3);
+    padding: 30px;
+}
+
+q {
+    font-style: italic;
+}
+
+p {
+    font-family: serif;
+    font-size: large;
+    color: rgb(78, 43, 3);
+    line-height: 1em;
+    margin: auto;
+
+}
+
+/* section {
+   font-family: serif;
+      font-size: large;
+      color: rgb(16, 18, 172);
+      line-height: 1em;
+      margin: 350px;
+   }*/
+ul {
+    font-family: serif;
+    font-size: large;
+    color: rgb(78, 43, 3);
+    line-height: 1em;
+    margin: auto;
+}
+
+a:link {
+    font-size: 1.5rem;
+    color: crimson;
+}
+
+a:visited {
+    font-size: 1.5rem;
+    color: rgb(19, 204, 127);
+}
+
+a:hover {
+    font-size: 1.5rem;
+    font-family: 'Courier New', Courier, monospace;
+    color: darkorange;
+}
+
+#quote1 {
+    font-style: italic;
+
+}
+
+#quote2 {
+    font-style: oblique;
+}
+
+#person {
+    border-left: solid blue;
+
+}
+
+#farmer {
+    border-left: solid red;
+
+}
